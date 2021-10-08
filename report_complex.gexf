@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.1draft/viz" version="1.1" xmlns="http://www.gexf.net/1.1draft">
+    <meta lastmodifieddate="2021-10-08">
+        <creator>Gephi</creator>
+    </meta>
+    <graph defaultedgetype="undirected" idtype="string" type="static">
+    <attributes class="node" mode="static">
+    <attribute id="mode" title="Mode" type="Integer"/>
+    <attribute id="code" title="Code" type="string"/>
+    <attribute id="city" title="City" type="string"/>
+    <attribute id="latitude" title="latitude" type="double"/>
+    <attribute id="longitude" title="longitude" type="double"/>
+    </attributes>
+    <nodes count="24">
+        <node id="0" label="Nội bài">
+            <attvalues>
+            <attvalue for="Mode" value="1"/>
+            <attvalue for="latitude" value="21.22139"/>
+            <attvalue for="longitude" value="105.8053"/>
+            </attvalues>
+            <viz:color b="243" g="107" r="88"/>
+        </node>
+        <node id="1" label="Cát bì">
+            <attvalues>
+            <attvalue for="Mode" value="1"/>
+            <attvalue for="latitude" value="20.8207"/>
+            <attvalue for="longitude" value="106.7245"/>
+            </attvalues>
+            <viz:color b="245" g="122" r="61"/>
+        </node>
+        <node id="2" label="Điện biên phủ">
+            <attvalues>
+            <attvalue for="Mode" value="1"/>
+            <attvalue for="latitude" value="21.38602"/>
+            <attvalue for="longitude" value="103.023"/>
+            </attvalues>
+            <viz:color b="245" g="123" r="59"/>
+        </node>
+        <node id="3" label="Thọ xuân">
+            <attvalues>
+            <attvalue for="Mode" value="1"/>
+            <attvalue for="latitude" value="19.9025"/>
+            <attvalue for="longitude" value="105.4692"/>
+            </attvalues>
+            <viz:color b="247" g="131" r="47"/>
+        </node>
+        <node id="4" label="Vinh">
+            <attvalues>
+            <attvalue for="Mode" value="1"/>
+            <attvalue for="latitude" value="18.73037"/>
+            <attvalue for="longitude" value="105.6758"/>
+            </attvalues>
+            <viz:color b="246" g="127" r="52"/>
+        </node>
+        <node id="5" label="Đồng hới">
+            <attvalues>
+            <attvalue for="Mode" value="1"/>
+            <attvalue for="latitude" value="17.51526"/>
+            <attvalue for="longitude" value="106.5908"/>
+            </attvalues>
+            <viz:color b="245" g="123" r="59"/>
+        </node>
+        <node id="6" label="Phú bài">
+            <attvalues>
+            <attvalue for="Mode" value="1"/>
+            <attvalue for="latitude" value="16.40068"/>
+            <attvalue for="longitude" value="107.7025"/>
+            </attvalues>
+            <viz:color b="247" g="131" r="47"/>
+        </node>
+        <node id="7" label="Đà nẵng">
+            <attvalues>
+            <attvalue for="Mode" value="1"/>
+            <attvalue for="latitude" value="16.04389"/>
+            <attvalue for="longitude" value="108.2003"/>
+            </attvalues>
+            <viz:color b="247" g="131" r="47"/>
+        </node>
+        <node id="8" label="Chu lai">
+            <attvalues>
+            <attvalue for="Mode" value="1"/>
+            <attvalue for="latitude" value="15.40599"/>
+            <attvalue for="longitude" value="108.7059"/>
+            </attvalues>
+            <viz:color b="246" g="125" r="56"/>
+        </node>
+        <node id="9" label="Phù cát">
+            <attvalues>
+            <attvalue for="Mode" value="1"/>
+            <attvalue for="latitude" value="30.194444"/>
+            <attvalue for="longitude" value="-97.67"/>
+            </attvalues>
+            <viz:color b="243" g="105" r="91"/>
+        </node>
+        <node id="10" label="Tuy hòa">
+            <attvalues>
+            <attvalue for="Mode" value="1"/>
+            <attvalue for="latitude" value="44.483333"/>
+            <attvalue for="longitude" value="-88.133333"/>
+            </attvalues>
+            <viz:color b="242" g="101" r="98"/>
+        </node>
+        <node id="11" label="Cam ranh">
+            <attvalues>
+            <attvalue for="Mode" value="1"/>
+            <attvalue for="latitude" value="39.175278"/>
+            <attvalue for="longitude" value="-76.668333"/>
+            </attvalues>
+            <viz:color b="243" g="105" r="90"/>
+        </node>
+        <node id="12" label="Buôn ma thuột">
+            <attvalues>
+            <attvalue for="Mode" value="1"/>
+            <attvalue for="latitude" value="44.8"/>
+            <attvalue for="longitude" value="-68.816667"/>
+            </attvalues>
+            <viz:color b="246" g="127" r="52"/>
+        </node>
+        <node id="13" label="Liên khương">
+            <attvalues>
+            <attvalue for="Mode" value="1"/>
+            <attvalue for="latitude" value="37.060278"/>
+            <attvalue for="longitude" value="-88.773056"/>
+            </attvalues>
+            <viz:color b="246" g="124" r="58"/>
+        </node>
+        <node id="14" label="Pleiku">
+            <attvalues>
+            <attvalue for="Mode" value="1"/>
+            <attvalue for="latitude" value="30.216667"/>
+            <attvalue for="longitude" value="-85.683333"/>
+            </attvalues>
+            <viz:color b="246" g="125" r="56"/>
+        </node>
+        <node id="15" label="Tân sơn nhất">
+            <attvalues>
+            <attvalue for="Mode" value="1"/>
+            <attvalue for="latitude" value="48.8"/>
+            <attvalue for="longitude" value="-122.533333"/>
+            </attvalues>
+            <viz:color b="247" g="131" r="47"/>
+        </node>
+        <node id="16" label="Cà mau">
+            <attvalues>
+            <attvalue for="Mode" value="1"/>
+            <attvalue for="latitude" value="47.516667"/>
+            <attvalue for="longitude" value="-94.933333"/>
+            </attvalues>
+            <viz:color b="247" g="131" r="47"/>
+        </node>
+        <node id="17" label="Côn đảo">
+            <attvalues>
+            <attvalue for="Mode" value="1"/>
+            <attvalue for="latitude" value="45.954722"/>
+            <attvalue for="longitude" value="-112.4975"/>
+            </attvalues>
+            <viz:color b="247" g="131" r="47"/>
+        </node>
+        <node id="18" label="Cần thơ">
+            <attvalues>
+            <attvalue for="Mode" value="1"/>
+            <attvalue for="latitude" value="45.8"/>
+            <attvalue for="longitude" value="-108.533333"/>
+            </attvalues>
+            <viz:color b="247" g="71" r="236"/>
+        </node>
+        <node id="19" label="Rạch giá">
+            <attvalues>
+            <attvalue for="Mode" value="1"/>
+            <attvalue for="latitude" value="33.566667"/>
+            <attvalue for="longitude" value="-86.75"/>
+            </attvalues>
+            <viz:color b="244" g="114" r="75"/>
+        </node>
+        <node id="20" label="Phú quốc">
+            <attvalues>
+            <attvalue for="Mode" value="1"/>
+            <attvalue for="latitude" value="42.965556"/>
+            <attvalue for="longitude" value="-83.743611"/>
+            </attvalues>
+            <viz:color b="243" g="109" r="84"/>
+        </node>
+        <node id="21" label="Bamboo">
+            <attvalues>
+            <attvalue for="Mode" value="2"/>
+            </attvalues>
+            <viz:color b="143" g="107" r="88"/>
+        </node>
+        <node id="22" label="Vietjet">
+            <attvalues>
+            <attvalue for="Mode" value="2"/>
+            </attvalues>
+            <viz:color b="145" g="122" r="61"/>
+        </node>
+        <node id="23" label="Vietnam Airline">
+            <attvalues>
+            <attvalue for="Mode" value="2"/>
+            </attvalues>
+            <viz:color b="145" g="123" r="59"/>
+        </node>
+    </nodes>
+    <edges count="97">
+        <edge id="0" source="21" target="0" weight="10334"/>
+        <edge id="1" source="21" target="1" weight="1565"/>
+        <edge id="2" source="21" target="4" weight="626"/>
+        <edge id="3" source="21" target="7" weight="3756"/>
+        <edge id="4" source="21" target="8" weight="313"/>
+        <edge id="5" source="21" target="9" weight="313"/>
+        <edge id="6" source="21" target="11" weight="1252"/>
+        <edge id="7" source="21" target="12" weight="1565"/>
+        <edge id="8" source="21" target="14" weight="626"/>
+        <edge id="9" source="21" target="5" weight="7512"/>
+        <edge id="10" source="21" target="18" weight="939"/>
+        <edge id="11" source="21" target="20" weight="1565"/>
+
+        <edge id="12" source="22" target="0" weight="12600"/>
+        <edge id="13" source="22" target="1" weight="8040"/>
+        <edge id="14" source="22" target="3" weight="260"/>
+        <edge id="15" source="22" target="4" weight="280"/>
+        <edge id="16" source="22" target="5" weight="260"/>
+        <edge id="17" source="22" target="6" weight="260"/>
+        <edge id="18" source="22" target="7" weight="3900"/>
+        <edge id="19" source="22" target="8" weight="520"/>
+        <edge id="20" source="22" target="9" weight="520"/>
+        <edge id="21" source="22" target="11" weight="1560"/>
+        <edge id="22" source="22" target="12" weight="2080"/>
+        <edge id="23" source="22" target="13" weight="780"/>
+        <edge id="24" source="22" target="14" weight="1300"/>
+        <edge id="25" source="22" target="15" weight="13000"/>
+        <edge id="26" source="22" target="16" weight="260"/>
+        <edge id="27" source="22" target="17" weight="260"/>
+        <edge id="28" source="22" target="18" weight="520"/>
+        <edge id="29" source="22" target="19" weight="260"/>
+        <edge id="30" source="22" target="20" weight="1820"/>
+
+        <edge id="31" source="23" target="0" weight="1003024"/>
+        <edge id="32" source="23" target="1" weight="182368"/>
+        <edge id="33" source="23" target="2" weight="45592"/>
+        <edge id="34" source="23" target="4" weight="22796"/>
+        <edge id="35" source="23" target="5" weight="45592"/>
+        <edge id="36" source="23" target="7" weight="410328"/>
+        <edge id="37" source="23" target="8" weight="22796"/>
+        <edge id="38" source="23" target="9" weight="22796"/>
+        <edge id="39" source="23" target="10" weight="22796"/>
+        <edge id="40" source="23" target="11" weight="159572"/>
+        <edge id="41" source="23" target="12" weight="136776"/>
+        <edge id="42" source="23" target="13" weight="45592"/>
+        <edge id="43" source="23" target="14" weight="136776"/>
+        <edge id="44" source="23" target="15" weight="1071412"/>
+        <edge id="45" source="23" target="16" weight="45592"/>
+        <edge id="46" source="23" target="17" weight="45592"/>
+        <edge id="47" source="23" target="18" weight="68388"/>
+        <edge id="48" source="23" target="19" weight="22796"/>
+        <edge id="49" source="23" target="20" weight="136776"/>
+
+        <edge id="50" source="0" target="1" weight="65904"/>
+        <edge id="51" source="0" target="2" weight="28603"/>
+        <edge id="52" source="0" target="4" weight="13624"/>
+        <edge id="53" source="0" target="5" weight="4096"/>
+        <edge id="54" source="0" target="7" weight="198847"/>
+        <edge id="55" source="0" target="9" weight="13809"/>
+        <edge id="56" source="0" target="11" weight="98110"/>
+        <edge id="57" source="0" target="12" weight="78406"/>
+        <edge id="58" source="0" target="13" weight="20340"/>
+        <edge id="59" source="0" target="14" weight="30580"/>
+        <edge id="60" source="0" target="15" weight="325950"/>
+        <edge id="61" source="0" target="16" weight="11208"/>
+        <edge id="62" source="0" target="17" weight="21390"/>
+        <edge id="63" source="0" target="18" weight="35790"/>
+        <edge id="64" source="0" target="20" weight="79301"/>
+
+        <edge id="65" source="7" target="1" weight="26078"/>
+        <edge id="66" source="7" target="2" weight="7590"/>
+        <edge id="67" source="7" target="3" weight="130"/>
+        <edge id="68" source="7" target="4" weight="5790"/>
+        <edge id="69" source="7" target="5" weight="23680"/>
+        <edge id="70" source="7" target="14" weight="37390"/>
+        <edge id="71" source="7" target="15" weight="43440"/>
+        <edge id="72" source="7" target="16" weight="11400"/>
+        <edge id="73" source="7" target="17" weight="16809"/>
+        <edge id="74" source="7" target="18" weight="12030"/>
+        <edge id="75" source="7" target="20" weight="34800"/>
+        <edge id="103" source="7" target="11" weight="6780"/>
+        <edge id="104" source="7" target="10" weight="1300"/>
+        <edge id="105" source="7" target="9" weight="1920"/>
+
+        <edge id="76" source="15" target="1" weight="42018"/>
+        <edge id="77" source="15" target="2" weight="2850"/>
+        <edge id="78" source="15" target="3" weight="130"/>
+        <edge id="79" source="15" target="4" weight="13800"/>
+        <edge id="80" source="15" target="5" weight="19680"/>
+        <edge id="81" source="15" target="8" weight="17208"/>
+        <edge id="82" source="15" target="9" weight="6560"/>
+        <edge id="83" source="15" target="10" weight="34920"/>
+        <edge id="84" source="15" target="11" weight="39803"/>
+        <edge id="85" source="15" target="12" weight="6840"/>
+        <edge id="86" source="15" target="14" weight="46840"/>
+        <edge id="87" source="15" target="16" weight="16390"/>
+        <edge id="88" source="15" target="18" weight="17208"/>
+        <edge id="97" source="15" target="13" weight="12680"/>
+        <edge id="89" source="7" target="19" weight="18206"/>
+        <edge id="90" source="7" target="20" weight="4288"/>
+        <edge id="91" source="7" target="6" weight="260"/>
+        <edge id="92" source="1" target="20" weight="5164"/>
+        <edge id="93" source="1" target="11" weight="22180"/>
+        <edge id="94" source="1" target="12" weight="12180"/>
+        <edge id="95" source="1" target="14" weight="12180"/>
+        <edge id="96" source="1" target="18" weight="780"/>
+        <edge id="98" source="1" target="5" weight="230"/>
+        <edge id="99" source="1" target="13" weight="1300"/>
+        <edge id="100" source="1" target="9" weight="780"/>
+        <edge id="101" source="1" target="10" weight="1300"/>
+        <edge id="102" source="1" target="19" weight="1897"/>
+    </edges>
+    </graph>
+</gexf>
